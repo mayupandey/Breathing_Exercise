@@ -32,5 +32,9 @@ implementation "pl.droidsonroids.gif:android-gif-drawable:1.2.18"
 ## Screenshots
 Main Screen | Breathing Excercise Screen | About App
 ------------|----------------------------|----------
+![](https://github.com/mayupandey/Breathing_Exercise/blob/master/screenshot/main.jpeg?raw=true) | ![](https://github.com/mayupandey/Breathing_Exercise/blob/master/screenshot/breathing.jpeg?raw=true) | ![](https://github.com/mayupandey/Breathing_Exercise/blob/master/screenshot/aboutus.jpeg?raw=true)
 
 
+
+## Project Created & Maintained By
+### Mayank Pandey
